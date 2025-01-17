@@ -42,6 +42,6 @@
 
 # 5. 결론
 + 데이터 분석을 통해 도출한 주요 인자를 기준으로 공정 변수를 변경하며 실험을 진행하여 최종적으로 PDMS기반 미세유체칩 수율을 50% 증가시켰다.
-
+![Image](https://github.com/user-attachments/assets/c79613ef-495b-4fb6-b6c1-fb43329e0b01)
 
 
