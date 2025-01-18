@@ -47,8 +47,11 @@
 + 구조 차트
 Grade Management
 ├── call
+
 ├── show_function
+
 ├── search
+
 ├── changescore
 ├── add
 ├── remove
