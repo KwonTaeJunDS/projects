@@ -45,6 +45,7 @@
 # 3. 프로그램 구조
 ---
 + 구조 차트
+
 Grade Management
 
 ├── call
