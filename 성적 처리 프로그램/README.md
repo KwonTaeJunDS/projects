@@ -46,6 +46,7 @@
 ---
 + 구조 차트
 Grade Management
+
 ├── call
 
 ├── show_function
@@ -53,9 +54,13 @@ Grade Management
 ├── search
 
 ├── changescore
+
 ├── add
+
 ├── remove
+
 ├── searchgrade
+
 └── quit_function
 
 # 4. 느낀점
